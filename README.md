@@ -1,9 +1,9 @@
 
-Nama: mustopa kamal
+Nama:Ariya M Alamsyah 
 
-NIM:C2583207045
+NIM:C2583207009
 
-Kelas:PTI3A
+Kelas:PTI3B
 
 Mata Kuliah:Algoritma dan Pemrograman Lanjutan
 
